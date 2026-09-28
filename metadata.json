@@ -1,0 +1,7 @@
+{
+  "name": "HELP HUB",
+  "description": "HELP HUB — Odamlarga kerakli yordam, bir joyda. All-in-one digital assistance platform for problem-solving, learning, tools, calculators, recipes, and AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
